@@ -60,6 +60,7 @@ Douglas Chan
 
 ## Test
 
+![Demo](https://github.com/gugacorchog/Team-Profile-Generator/blob/main/src/.test.mov.icloud)
 Open the termminal in the package.js and run the command:
 
 Npm run test 
