@@ -2,6 +2,8 @@
 
 #  ** TEAM PROFILE GENERATOR **
     
+# URL Link    
+https://gugacorchog.github.io/Team-Profile-Generator/team/teamList.html
 
 Screenshot:
 
