@@ -9,7 +9,8 @@ Screenshot:
 
 ![screenshot](https://github.com/gugacorchog/Team-Profile-Generator/blob/main/assets/screenshot3.jpg)
 
-![screenshot](https://github.com/gugacorchog/Team-Profile-Generator/blob/main/assets/Screenshot1.jpg)
+![screenshot](https://github.com/gugacorchog/Team-Profile-Generator/blob/main/assets/screenshot4.jpg)
+
 ## Description 
 
 A command-line application that accepts user input
