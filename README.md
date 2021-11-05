@@ -1,4 +1,4 @@
-[![This is a badge you can do whatever in these brackets](https://img.shields.io/packagist/l/gugacorchog/Team-Profile-Generator)](https://www.google.com.au)
+[![This is a badge you can do whatever in these brackets](https://img.shields.io/apm/l/vim-mode)](https://www.google.com.au)
 
 #  ** TEAM PROFILE GENERATOR **
     
