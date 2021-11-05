@@ -117,8 +117,12 @@ function addHtml(member) {
             <h5 class="card-header">${name}<br /><br />Engineer</h5>
             <ul class="list-group list-group-flush">
                 <li class="list-group-item">ID: ${id}</li>
-                <li class="list-group-item">Email Address: ${email}</li>
-                <li class="list-group-item">GitHub: ${gitHub}</li>
+                <li class="list-group-item">Email Address: ${email}
+                <a href="mailto:${email}" alt="Email link" target="blank">Click to open</a>
+                </li>
+                <li class="list-group-item">GitHub: ${gitHub}
+                <a href="https://gitbub.com/${gitHub}" alt="GitHub link" target="blank">Click to open</a>
+                </li>
             </ul>
             </div>
         </div>`;
@@ -129,7 +133,9 @@ function addHtml(member) {
             <h5 class="card-header">${name}<br /><br />Intern</h5>
             <ul class="list-group list-group-flush">
                 <li class="list-group-item">ID: ${id}</li>
-                <li class="list-group-item">Email Address: ${email}</li>
+                <li class="list-group-item">Email Address: ${email}
+                <a href="mailto:${email}" alt="Email link" target="blank">Click to open</a>
+                </li>
                 <li class="list-group-item">School: ${school}</li>
             </ul>
             </div>
@@ -141,7 +147,9 @@ function addHtml(member) {
             <h5 class="card-header">${name}<br /><br />Manager</h5>
             <ul class="list-group list-group-flush">
                 <li class="list-group-item">ID: ${id}</li>
-                <li class="list-group-item">Email Address: ${email}</li>
+                <li class="list-group-item">Email Address: ${email}
+                <a href="mailto:${email}" alt="Email link" target="blank">Click to open</a>
+                </li>
                 <li class="list-group-item">Office Phone: ${officePhone}</li>
             </ul>
             </div>
@@ -155,7 +163,7 @@ function addHtml(member) {
             return resolve();
         });
     });
-        
+       
 }
 
 function finishHtml() {
