@@ -41,7 +41,9 @@ Npm install jest (for tests)
 ## Usage
 
 Run the following command at the root of your project and answer the prompted questions:
-node index.js
+node index.js 
+WHEN you see message DONE
+A html page will be created in the folder team/teamList.html 
 
 ## Contributing
 Douglas Chan 
