@@ -61,7 +61,8 @@ Douglas Chan
 ## Test
 #### Demo
 
-https://user-images.githubusercontent.com/87793995/140596248-0aff2c94-914d-4b85-b01b-5900af03b40f.movq
+
+
 Open the termminal in the package.js and run the command:
 
 Npm run test 
