@@ -59,8 +59,9 @@ A html page will be created in the folder team/teamList.html
 Douglas Chan 
 
 ## Test
+#### Demo
 
-[Demo](https://github.com/gugacorchog/Team-Profile-Generator/blob/main/src/test.mov)
+https://user-images.githubusercontent.com/87793995/140596248-0aff2c94-914d-4b85-b01b-5900af03b40f.movq
 Open the termminal in the package.js and run the command:
 
 Npm run test 
