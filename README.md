@@ -1,9 +1,17 @@
-[![This is a badge you can do whatever in these brackets](https://img.shields.io/apm/l/vim-mode)](https://www.google.com.au)
+![License](https://img.shields.io/badge/LICENSE-MIT-BLUE)
+[!Languages](https://img.shields.io/github/languages/top/gugacorchog/Team-Profile-Generator?color=red)
+[!Size](https://img.shields.io/github/languages/code-size/gugacorchog/Team-Profile-Generator?color=yellow)
 
 #  ** TEAM PROFILE GENERATOR **
     
 # URL Link    
 https://gugacorchog.github.io/Team-Profile-Generator/team/teamList.html
+
+### Demo
+
+
+https://user-images.githubusercontent.com/87793995/140643415-e1e40c14-0d28-44ba-a204-6d26fa2fbf6f.mov
+
 
 Screenshot:
 
