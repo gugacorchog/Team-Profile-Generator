@@ -1,6 +1,7 @@
 ![License](https://img.shields.io/badge/LICENSE-MIT-BLUE)
-[!Languages](https://img.shields.io/github/languages/top/gugacorchog/Team-Profile-Generator?color=red)
-[!Size](https://img.shields.io/github/languages/code-size/gugacorchog/Team-Profile-Generator?color=yellow)
+![example workflow](https://img.shields.io/github/languages/top/gugacorchog/Team-Profile-Generator?color=red)
+![example workflow](https://img.shields.io/github/languages/code-size/gugacorchog/Team-Profile-Generator?color=yellow)
+
 
 #  ** TEAM PROFILE GENERATOR **
     
